@@ -23,9 +23,9 @@ Actualmente, este servicio no expone endpoints REST propios: su responsabilidad 
 
 Cuando el microservicio recibe un evento `EventoAlarmaCreada` desde Kafka:
 
-1. registra la recepción en logs,
-2. construye una entidad `NotificacionEnviada`,
-3. marca la entrega como simulada,
+1. registra la recepción en logs.
+2. construye una entidad `NotificacionEnviada`.
+3. marca la entrega como simulada.
 4. guarda el resultado en MongoDB.
 
 Esto permite desacoplar la creación/programación de alarmas de su ejecución posterior.
