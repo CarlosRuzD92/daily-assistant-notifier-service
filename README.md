@@ -15,7 +15,7 @@ Actualmente, este servicio no expone endpoints REST propios: su responsabilidad 
 
 ## Enfoque del proyecto
 
-> Este proyecto no solo tiene un objetivo funcional, sino también formativo. Ha servido como entorno de aprendizaje para incorporar y aplicar tecnologías que no había trabajado previamente durante el grado superior, adquiriendo experiencia práctica en su uso, entendiendo mejor cómo se integran dentro de una arquitectura real y reforzando una base técnica más sólida.
+> Este proyecto nace con un doble objetivo: funcional y formativo. Más allá de su implementación técnica, ha sido una oportunidad para aprender y consolidar tecnologías backend que no había trabajado previamente en profundidad durante el grado superior. Su desarrollo me ha permitido practicar integración entre microservicios, seguridad con JWT, persistencia con MongoDB, comunicación asíncrona con Kafka y despliegue con Docker. Además, he utilizado herramientas de apoyo como la documentación oficial, recursos técnicos y asistencia puntual con IA, siempre con el objetivo de revisar, adaptar y comprender cada solución aplicada.
 
 ---
 
