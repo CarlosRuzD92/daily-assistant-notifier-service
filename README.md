@@ -336,8 +336,8 @@ java -jar target/notificador-0.0.1.jar
 
 Microservicio funcional para:
 
-- consumir eventos de alarmas programadas,
-- registrar notificaciones simuladas,
-- persistir resultado en MongoDB,
+- consumir eventos de alarmas programadas.
+- registrar notificaciones simuladas.
+- persistir resultado en MongoDB.
 - cubrir la base con tests unitarios.
 
